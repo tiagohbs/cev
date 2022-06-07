@@ -17,7 +17,7 @@ public class Aula05 {
         p2.setNumConta(random.nextInt(1,50));
         p2.setDono("Creuza");
         p2.abrirConta("CP");
-        p2.depositar(501);
+        p2.depositar(500);
         p2.sacar(1500);
 
 
